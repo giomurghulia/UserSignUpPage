@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserSignUpPage</string>
+    <string name="main_title">HELLO!</string>
+    <string name="sub_title">lets introduce</string>
+    <string name="hint_full_name">Your full name</string>
+    <string name="hint_username">Username</string>
+    <string name="text_next">Next</string>
+</resources>
